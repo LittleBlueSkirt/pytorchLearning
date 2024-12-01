@@ -1,7 +1,7 @@
 # pytorchLearning
 get start pytorch
 
-[Pytorch-UNet项目地址](https://github.com/milesial/Pytorch-UNet))
+[Pytorch-UNet项目地址](https://github.com/milesial/Pytorch-UNet)
 ### 运行前准备
 1. 安装anaconda 和pychar 运行环境
 2. 配置conda 环境 pytorchEnv39
