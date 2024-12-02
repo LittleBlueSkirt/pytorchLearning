@@ -17,7 +17,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
-See the section on [code](#code).
+See the section on [`code`](#code).
 
 
 
