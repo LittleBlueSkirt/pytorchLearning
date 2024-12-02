@@ -11,9 +11,14 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
 
+[Markdown][1]
+
+
 <https://markdown.com.cn>
 
 <fake@example.com>
+
+
 
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
@@ -51,3 +56,4 @@ conda install nb_conda_kernels
 ```
 print("hello world")
 ```
+[1]: (https://markdown.com.cn)
