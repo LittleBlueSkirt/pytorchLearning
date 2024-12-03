@@ -4,6 +4,7 @@ get start pytorch
 
 [Pytorch-UNet项目地址](https://github.com/milesial/Pytorch-UNet)
 
+**由于该项目的数据集是kaggle上面的，你需要先注册一个kaggle账户，并申请一个api key**
 
 ### 运行前准备
 1. 安装anaconda 和pycharm 运行环境
